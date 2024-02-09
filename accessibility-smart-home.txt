@@ -1,1 +1,8 @@
 Accessibility in the Smart Home: Matter and Thread
+
+In the US, the average household has 8 smart devices -- smart speakers, smart TVs, smart lightbulbs, light switches, plugs, thermostats, and more. If you can control any of these from your smart phone, congratulations! You are living in a smart home. If you can control them with your voice as well, it feels even smarter, doesn't it?
+
+But how does this all work from a technical perspective? In this talk, Scott Davis (author and digital accessibility advocate) explains how the latest open standards-based smart home protocols -- Matter and Thread -- unify your home network of smart devices across vendors like Apple, Google, Amazon, and others. You'll also learn how these standards allow you to use all of your senses to control your smart home -- touch, voice, proximity, and more. Being able to access all of your smart devices, using all of your senses, is mainstream accessibility at its finest.   
+
+
+
